@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Brunno Rocha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on WhiteBears-Company
+- 🔭 I’m currently Software Engineer Student
 
-- 🌱 I’m currently learning **Html, CSS, JavaScript, ReactJs, TypeScript.**
+- 🌱 I’m currently learning **JavaScript, ReactJs, TypeScript, NextJs, Cyber Security.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BrunnoCode](https://github.com/BrunnoCode)
 
