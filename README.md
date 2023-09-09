@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Brunno Rocha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently Software Engineer Student
+- 🔭 I’m currently Software Engineer Student at 42 School Barcelona
 
 - 🌱 I’m currently learning **JavaScript, ReactJs, TypeScript, NextJs, Cyber Security.**
 
