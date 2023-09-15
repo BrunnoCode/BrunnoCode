@@ -1,11 +1,11 @@
 ### Olá Eu Sou Brunno, Bem-vindos! 👋
 
 <h1 align="center">Hi 👋, I'm Brunno Rocha</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently Software Engineer Student at 42 School Barcelona
 
-- 🌱 I’m currently learning **JavaScript, ReactJs, TypeScript, NextJs, Cyber Security.**
+- 🌱 I’m currently learning ** Computer Science, C.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BrunnoCode](https://github.com/BrunnoCode)
 
