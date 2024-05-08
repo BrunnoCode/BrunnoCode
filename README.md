@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Software Engineer Student at 42 School Barcelona
 
-- 🌱 I’m currently learning ** Computer Science, C.**
+- 🌱 I’m currently learning ** Computer Science, C & JAVA.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BrunnoCode](https://github.com/BrunnoCode)
 
