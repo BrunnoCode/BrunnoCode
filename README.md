@@ -36,8 +36,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunnoCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnoCode&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="160em"
+     src="https://github-readme-stats.vercel.app/api?username=BrunnoCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="160em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnoCode&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
 ---
@@ -58,12 +62,6 @@
   </a>
   <a href="https://www.instagram.com/brunnowebcode/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCkPjgfLTMxrCpbhbaDw3mBA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.twitch.tv/brunnowr" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
   <a href="mailto:brunnowr.bw@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
