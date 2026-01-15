@@ -35,10 +35,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnocode&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnocode&layout=compact&langs_count=7&theme=omni"/>
-</div>
+| Estatísticas Gerais | Linguagens Mais Usadas |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=brunnocode&show_icons=true&theme=omni&include_all_commits=true&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunnocode&layout=compact&langs_count=7&theme=omni) |
 
 ---
 
