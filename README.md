@@ -11,6 +11,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Software Development Student (CFGS – DAM)
+- 🎓 Software Development Student (ex - 42 School Barcelona)
 - 💻 Focused on **Java**, **multiplatform development** and solid programming fundamentals
 - 🌱 Always learning and improving step by step
 - 🔍 Interested in backend, databases and clean code
