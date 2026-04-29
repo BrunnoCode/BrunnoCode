@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Development Student | DAM</h3>
 
 <p align="center">
-  Passionate about technology, continuous learning and building practical solutions.<br>
+  Enthusiast about technology, continuous learning and building practical solutions.<br>
   Currently studying <strong>Development of Multiplatform Applications (DAM)</strong> at <strong>iFP – Barcelona</strong>.
 </p>
 
