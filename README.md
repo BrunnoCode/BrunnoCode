@@ -3,7 +3,7 @@
 
 <p align="center">
   Enthusiast about technology, continuous learning and building practical solutions.<br>
-  Currently studying <strong>Development of Multiplatform Applications (DAM)</strong> at <strong>iFP – Barcelona</strong>.
+  Currently studying <strong>Development of Multiplatform Applications (DAM)</strong> at <strong>PlanetaFP – Barcelona</strong>.
 </p>
 
 ---
