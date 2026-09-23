@@ -10,8 +10,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Software Development Student (CFGS – DAM)
-- 🎓 Software Development Student (ex - 42 School Barcelona)
+- 🎓 Software Development Student (CFGS – DAM PlanetaFP)
+- 🎓 Software Development Student (42 School Barcelona Alumni)
 - 💻 Focused on **Java**, **multiplatform development** and solid programming fundamentals
 - 🌱 Always learning and improving step by step
 - 🔍 Interested in backend, databases and clean code
