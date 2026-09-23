@@ -39,11 +39,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/brunnocode">
-    <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brunnocode&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
-    <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnocode&layout=compact&langs_count=7&theme=omni" />
-  </a>
+  <img height="160" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="160" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
+
 
 ---
 
