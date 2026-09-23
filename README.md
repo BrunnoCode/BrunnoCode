@@ -34,17 +34,6 @@
   <img src="https://img.icons8.com/?size=48&id=40670&format=png" width="45"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="160" src="./profile/top-langs.svg" alt="Top Languages" />
-</div>
-
-
----
 
 ### 🐍 Contribution Snake
 
